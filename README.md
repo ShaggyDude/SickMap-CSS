@@ -15,7 +15,7 @@ this is an angular app which is probably overkill but it renders the markdown wh
 
 
 
-# myangular
+# Running the app
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.12.1.
